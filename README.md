@@ -1,9 +1,9 @@
 # Dupuit groundwater model (DuM)
 
 <p float = "left">
-    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/uga.png"  width="100">
-    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usda.png"  width="75">
-    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usfs.png" width="75">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/uga.png"  height="100">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usda.png"  height="75">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usfs.png" height="75">
 </p>
 
 
