@@ -8,6 +8,6 @@ Based on Dupuit's equation for flow in phreatic aquifer between parallel rivers.
 
 Most of the DEM processing was accomplished using the Topotoolbox addin within MATLAB, as was the processing of the surface drainage network, but the model otherwise runs entirely in R. We hope to transition all DuM components into R at some point in the future (hopefully within Topotoolbox's framework of portraying stream networks as directed acyclic graphs, moreover as "rooted trees" to take the language commonly used in graph theory discussions). 
 
-
+Public version of DuM will be posted towards the end of 2023. Feel free to reach out to discuss before then. 
 
 
