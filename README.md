@@ -13,7 +13,7 @@ $$ h_x = \sqrt{h_0^2 + \frac{Nx}K (2L - x) } $$
 
 Most of the DEM processing was accomplished using the [TopoToolbox](https://github.com/csdms-contrib/topotoolbox) addin within MATLAB, as was the processing of the surface drainage network, but the model otherwise runs entirely in R. We hope to transition all [DuM](https://github.com/sraul1/Dupuit-DuM) components into R at some point in the future (hopefully within TopoToolbox's framework of portraying stream networks as directed acyclic graphs, moreover as "rooted trees" to take the language commonly used in graph theory discussions). 
 
-Public version of [DuM](https://github.com/sraul1/Dupuit-DuM) will be posted towards the end of 2023. Feel free to reach out to discuss before then. 
+Public version of [DuM](https://github.com/sraul1/Dupuit-DuM) will be posted later in 2023. Feel free to reach out to discuss before then. 
 
 
 
