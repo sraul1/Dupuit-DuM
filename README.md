@@ -1,4 +1,5 @@
 # Dupuit groundwater model (DuM)
+<img src="https://github.com/sraul1/Dupuit-DuM/blob/main/uga.png" align="center" height="100">
 
 ![UGA](uga.png)
 
