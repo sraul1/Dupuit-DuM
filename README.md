@@ -1,8 +1,10 @@
 # Dupuit groundwater model (DuM)
-<img src="https://github.com/sraul1/Dupuit-DuM/blob/main/uga.png" align="center" height="200">
-<img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usda.png" align="center" height="200">
-<img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usfs.png" align="center" height="200">
 
+<p float = "left">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/uga.png"  width="100">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usda.png"  width="100">
+    <img src="https://github.com/sraul1/Dupuit-DuM/blob/main/usfs.png" width="100">
+</p>
 
 
 [Dupuit groundwater model (DuM)](https://github.com/sraul1/Dupuit-DuM) for use in estimating surficial water table position.
